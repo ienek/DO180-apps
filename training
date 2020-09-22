@@ -1,0 +1,6 @@
+OpenShift Details
+Username	RHT_OCP4_DEV_USER	jpilak
+Password	RHT_OCP4_DEV_PASSWORD	f177d52bb00246a391b2
+API Endpoint	RHT_OCP4_MASTER_API	https://api.ocp-eu2.prod.nextcle.com:6443
+Console Web Application		https://console-openshift-console.apps.ocp-eu2.prod.nextcle.com
+Cluster Id		5ee65450-6e18-46e4-bb6d-535a44ec33c4
